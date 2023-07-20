@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524087789137",
+    "project_id": "our-chat-87e21",
+    "storage_bucket": "our-chat-87e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524087789137:android:73139dddc10fa66ba9da70",
+        "android_client_info": {
+          "package_name": "com.example.ourchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524087789137-6pmbvmfi9bqtdvei368k4ov5e0qd6inc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIQtm80qFzwop9zGRAeL5cuiQXfCsCFfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524087789137-6pmbvmfi9bqtdvei368k4ov5e0qd6inc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
